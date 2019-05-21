@@ -9,7 +9,7 @@ LABEL "repository"="http://github.com/atrox/codecov-action"
 LABEL "homepage"="http://github.com/atrox/codecov-action"
 LABEL "maintainer"="Atrox <hello@atrox.dev>"
 
-RUN apk add --no-cache curl bash
+RUN apk add --no-cache curl bash git
 
 ADD entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
