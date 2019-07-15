@@ -1,4 +1,4 @@
-FROM alpine:3.9.4
+FROM alpine:3.10.1
 
 LABEL "com.github.actions.name"="Codecov Action"
 LABEL "com.github.actions.description"="Sends the coverage to codecov"
