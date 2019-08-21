@@ -1,3 +1,5 @@
+> ⚠️ **Notice**: Please use the recently released offical [codecov/codecov-action](https://github.com/codecov/codecov-action)
+
 # Codecov GitHub Action
 
 [![GitHub Marketplace](https://img.shields.io/badge/GitHub_Marketplace-v0.1.2-undefined.svg?logo=github&logoColor=white&style=flat-square)](https://github.com/marketplace/actions/codecov-action)
